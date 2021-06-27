@@ -1,0 +1,2 @@
+This command automaticaly genarated with scripts named addCommands2Bot
+Therefore, don't create a js file with name of this file
